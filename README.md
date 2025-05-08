@@ -12,7 +12,6 @@ Welcome to my GitHub! I’m a Computer Engineering student who loves diving into
 ---
 
 ## ⚙️ Tech Stack
-{"url":"https://www.credly.com/badges/bd8e48f2-4fe7-4a12-9c2b-042aac03d8df/accept"}
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
